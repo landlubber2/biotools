@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pyfastx
+prometheus-client

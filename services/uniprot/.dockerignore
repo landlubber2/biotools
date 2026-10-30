@@ -1,0 +1,6 @@
+*.gz
+*:Zone.Identifier
+requirenments.txt
+__pycache__
+*.pyi
+*.fxi

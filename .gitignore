@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.fxi
+*:Zone.Identifier
+*.fasta.gz
+.env
+.venv/
+venv/
